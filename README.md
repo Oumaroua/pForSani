@@ -1,3 +1,6 @@
+Nous avons utilisé mysql le nom de la base est dbwdf
+le backEnd avec java j'ai generé un jar
+
 # ProjetForsani
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.0.
