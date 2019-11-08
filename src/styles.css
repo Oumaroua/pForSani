@@ -1,0 +1,51 @@
+
+.padding-20{
+    padding: 20px;
+}
+.padding-10{
+    padding: 10px;
+}
+.marge-10{
+    margin: 10px;
+}
+
+.marge-20{
+    margin: 20px;
+    color: black;
+}
+.marge-top-25{
+    margin-top: 25px;
+}
+.border-right-dark{
+    border-right: dimgrey;
+}
+
+.height-150{
+    height: 250px;
+    width: 100%;
+}
+
+.marge-top-150{
+    margin-top: 150px;
+}
+.bord{
+    border-radius: 10px;
+}
+.bg-blanc{
+    background-color: rgb(238, 81, 61);
+}
+.height-40{
+    height: 40px;
+}
+.text-blanc{
+    color: white;
+}
+.lt{
+    color:brown;
+}
+.border-panel{
+    border: 1px solid rgb(190, 188, 188);
+}
+.marge-top-50{
+    margin-top: 50px;
+}/* You can add global styles to this file, and also import other style files */
